@@ -1,4 +1,4 @@
-﻿
+﻿# https://github.com/Snakeinweb/T5_2_hw
 
 word = input('Введите слово на латинице: ')
 x = 0
